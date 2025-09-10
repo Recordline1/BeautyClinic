@@ -1343,7 +1343,11 @@ textarea.input {
   .hero__marquee {
     padding: 0.625rem 0;
   }
+  .about__container {
+    row-gap: 4.0625rem;
+  }
   .content-transformations__experience {
+    justify-content: space-between;
     gap: 0.3125rem;
   }
   .experience__item {
