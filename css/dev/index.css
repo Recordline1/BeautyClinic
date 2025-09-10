@@ -768,6 +768,8 @@ textarea.input {
   border: 0.0625rem solid #343a32;
   border-radius: 0.5rem;
   padding: 0.75rem 1rem;
+}
+.experience__item {
   transition: box-shadow 0.3s;
 }
 .experience__body {
@@ -1340,6 +1342,12 @@ textarea.input {
   }
   .hero__marquee {
     padding: 0.625rem 0;
+  }
+  .content-transformations__experience {
+    gap: 0.3125rem;
+  }
+  .experience__item {
+    padding: 0.75rem 0.4375rem;
   }
   .experience__item {
     flex: 0 1 25%;
