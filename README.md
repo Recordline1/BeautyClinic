@@ -6,7 +6,8 @@
 
 
 <b>Demo</b>
- https://recordline1.github.io/BeautyClinic/
+<br>
+					<a href="https://recordline1.github.io/BeautyClinic/">BeautyClinic</a> 
  
 <i>Technologies used</i>
 <div>
