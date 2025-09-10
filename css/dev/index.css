@@ -770,6 +770,15 @@ textarea.input {
   padding: 0.75rem 1rem;
   transition: box-shadow 0.3s;
 }
+.experience__body {
+  display: flex;
+  gap: 0.5rem;
+  align-items: center;
+}
+.experience__body span {
+  font-size: 1.5rem;
+  font-weight: 700;
+}
 .experience__number {
   font-weight: 700;
   font-size: 1.875rem;
